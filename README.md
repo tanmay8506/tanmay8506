@@ -114,14 +114,15 @@
 
 ### 🚀 Current Focus
 
-</div>
-
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+|:---:|:---|
 | 🔭 | Building cool open source projects |
-|---|---|
 | 🌱 | Mastering System Design & DSA |
 | 👯 | Looking to collaborate on innovative ideas |
 | 💬 | Ask me about Web Dev, Python, or JavaScript |
 | ⚡ | I think in code and dream in algorithms |
+
+</div>
 
 ---
 
@@ -151,9 +152,5 @@
 
 ---
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=twinkling" />
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Star+%E2%AD%90+my+repos+if+you+find+them+useful!;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing" />
-</div>
+<!-- Footer Wave — bright cyan-to-blue gradient, fully visible on dark GitHub background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0066ff,100:6600ff&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=Happy%20Coding%20%F0%9F%9A%80%20%7C%20Drop%20a%20%E2%AD%90%20if%20you%20like%20my%20work!&descSize=16&descAlignY=78&descColor=e0f7ff" />
