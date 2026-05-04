@@ -1,54 +1,37 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Tanmay&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descColor=ffffff&descSize=18" />
+<!-- Animated Header Banner — increased height so "y" in Tanmay doesn't clip -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=240&section=header&text=Tanmay&fontSize=80&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=65&descColor=ffffff&descSize=18" />
 
-<!-- Typing SVG Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hey+there!+I'm+Tanmay+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Coffee+%2B+Code+%3D+Magic+%E2%98%95%F0%9F%92%AB" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile views counter + Follow badge -->
-<img src="https://komarev.com/ghpvc/?username=tanmay8506&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/tanmay8506?tab=followers">
-  <img src="https://img.shields.io/github/followers/tanmay8506?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0d1117" />
-</a>
+<!-- Typing SVG Animation — plain img, no <a> wrapper so no hover button -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=620&lines=Hey+there!+I'm+Tanmay+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Coffee+%2B+Code+%3D+Magic+%E2%98%95%F0%9F%92%AB" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- About Me Section — using HTML table so GIF sits cleanly beside text, no float weirdness -->
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ### 🧑‍💻 About Me
 
-```yaml
-name: Tanmay
-username: tanmay8506
-location: India 🇮🇳
-status: Always coding something cool...
+🌍 &nbsp;Based in **India**
+💻 &nbsp;Passionate about **Full Stack Development**
+🌱 &nbsp;Currently mastering **System Design & DSA**
+🤝 &nbsp;Open to **collaborating** on cool projects
+💬 &nbsp;Ask me about **Web Dev, Python, JavaScript**
+⚡ &nbsp;Fun fact: I debug at 2AM and call it *productive night* 🌙
 
-passion:
-  - Full Stack Development
-  - Open Source Projects
-  - Problem Solving
-  - Learning New Tech
+</td>
+<td valign="top" width="45%">
 
-currently_learning:
-  - System Design
-  - Cloud Architecture
-  - DSA & Competitive Programming
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:12px;" />
 
-fun_fact: >
-  I debug code at 2AM and call it
-  "productive night" 🌙
-```
-
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,17 +94,6 @@ fun_fact: >
 
 ---
 
-<!-- Activity Graph -->
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay8506&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&title_color=00d4ff" />
-
-</div>
-
----
-
 <!-- Snake animation -->
 <div align="center">
 
@@ -137,20 +109,19 @@ fun_fact: >
 
 ---
 
-<!-- What I'm currently doing -->
+<!-- Current Focus -->
 <div align="center">
 
 ### 🚀 Current Focus
 
 </div>
 
-```
-🔭 Building cool open source projects
-🌱 Mastering System Design & DSA
-👯 Looking to collaborate on innovative ideas
-💬 Ask me about Web Dev, Python, or JavaScript
-⚡ Fun fact: I think in code and dream in algorithms
-```
+| 🔭 | Building cool open source projects |
+|---|---|
+| 🌱 | Mastering System Design & DSA |
+| 👯 | Looking to collaborate on innovative ideas |
+| 💬 | Ask me about Web Dev, Python, or JavaScript |
+| ⚡ | I think in code and dream in algorithms |
 
 ---
 
